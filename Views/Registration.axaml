@@ -1,0 +1,22 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="AvaloniaApplication1.Registration"
+			 xmlns:vm ="using:AvaloniaApplication1.ViewModels"
+			 x:DataType="vm:RegistarationViewModel"
+			 >
+	<StackPanel>
+		<Button Content="Назад" Command="{Binding ToBack}"/>
+		<TextBlock Text="Регистрация"/>
+		<!--Изображение-->
+		<Button Content="Выбрать изображение" Command="{Binding}"/>
+		<TextBox Watermark="Фамилия" Text="{Binding NewUser.Surname}"/>
+		<TextBox Watermark="Имя" Text="{Binding NewUser.Name}"/>
+		<TextBox Watermark="Отчество" Text="{Binding NewUser.Patronymic}"/>
+		<TextBox Watermark="Логин" Text="{Binding NewUser.Login}"/>
+		<TextBox Watermark="Пароль" Text="{Binding Password}"/>
+		<Button Content="Сохранить" Command="{Binding SaveChange}"/>
+	</StackPanel>
+</UserControl>

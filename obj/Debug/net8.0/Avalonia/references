@@ -23,16 +23,32 @@ C:\Users\Katya\.nuget\packages\avalonia.themes.simple\11.2.1\lib\net8.0\Avalonia
 C:\Users\Katya\.nuget\packages\avalonia\11.2.1\ref\net8.0\Avalonia.Vulkan.dll
 C:\Users\Katya\.nuget\packages\avalonia.win32\11.2.1\lib\net8.0\Avalonia.Win32.dll
 C:\Users\Katya\.nuget\packages\avalonia.x11\11.2.1\lib\net8.0\Avalonia.X11.dll
+C:\Users\Katya\.nuget\packages\dialoghost.avalonia\0.8.1\lib\netstandard2.0\DialogHost.Avalonia.dll
 C:\Users\Katya\.nuget\packages\dynamicdata\8.4.1\lib\net8.0\DynamicData.dll
 C:\Users\Katya\.nuget\packages\harfbuzzsharp\7.3.0.2\lib\net6.0\HarfBuzzSharp.dll
 C:\Users\Katya\.nuget\packages\microcom.runtime\0.11.0\lib\net5.0\MicroCom.Runtime.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.11\ref\net8.0\Microsoft.CSharp.dll
+C:\Users\Katya\.nuget\packages\microsoft.entityframeworkcore.abstractions\9.0.0\lib\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Katya\.nuget\packages\microsoft.entityframeworkcore\9.0.0\lib\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Katya\.nuget\packages\microsoft.entityframeworkcore.relational\9.0.0\lib\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Katya\.nuget\packages\microsoft.extensions.caching.abstractions\9.0.0\lib\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Katya\.nuget\packages\microsoft.extensions.caching.memory\9.0.0\lib\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Katya\.nuget\packages\microsoft.extensions.configuration.abstractions\9.0.0\lib\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Katya\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\9.0.0\lib\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Katya\.nuget\packages\microsoft.extensions.dependencyinjection\9.0.0\lib\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Katya\.nuget\packages\microsoft.extensions.logging.abstractions\9.0.0\lib\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Katya\.nuget\packages\microsoft.extensions.logging\9.0.0\lib\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Katya\.nuget\packages\microsoft.extensions.options\9.0.0\lib\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Katya\.nuget\packages\microsoft.extensions.primitives\9.0.0\lib\net8.0\Microsoft.Extensions.Primitives.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.11\ref\net8.0\Microsoft.VisualBasic.Core.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.11\ref\net8.0\Microsoft.VisualBasic.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.11\ref\net8.0\Microsoft.Win32.Primitives.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.11\ref\net8.0\Microsoft.Win32.Registry.dll
+C:\Users\Katya\.nuget\packages\messagebox.avalonia\3.2.0\lib\netstandard2.0\MsBox.Avalonia.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.11\ref\net8.0\mscorlib.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.11\ref\net8.0\netstandard.dll
+C:\Users\Katya\.nuget\packages\npgsql\9.0.1\lib\net8.0\Npgsql.dll
+C:\Users\Katya\.nuget\packages\npgsql.entityframeworkcore.postgresql\9.0.1\lib\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\Katya\.nuget\packages\reactiveui\20.1.1\lib\net8.0\ReactiveUI.dll
 C:\Users\Katya\.nuget\packages\skiasharp\2.88.8\lib\net6.0\SkiaSharp.dll
 C:\Users\Katya\.nuget\packages\splat\15.1.1\lib\net8.0\Splat.dll
@@ -57,7 +73,7 @@ C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.11\ref\net8.0\System
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.11\ref\net8.0\System.Data.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.11\ref\net8.0\System.Diagnostics.Contracts.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.11\ref\net8.0\System.Diagnostics.Debug.dll
-C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.11\ref\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Katya\.nuget\packages\system.diagnostics.diagnosticsource\9.0.0\lib\net8.0\System.Diagnostics.DiagnosticSource.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.11\ref\net8.0\System.Diagnostics.FileVersionInfo.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.11\ref\net8.0\System.Diagnostics.Process.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.11\ref\net8.0\System.Diagnostics.StackTrace.dll
@@ -86,7 +102,7 @@ C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.11\ref\net8.0\System
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.11\ref\net8.0\System.IO.FileSystem.Watcher.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.11\ref\net8.0\System.IO.IsolatedStorage.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.11\ref\net8.0\System.IO.MemoryMappedFiles.dll
-C:\Users\Katya\.nuget\packages\system.io.pipelines\8.0.0\lib\net8.0\System.IO.Pipelines.dll
+C:\Users\Katya\.nuget\packages\system.io.pipelines\9.0.0\lib\net8.0\System.IO.Pipelines.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.11\ref\net8.0\System.IO.Pipes.AccessControl.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.11\ref\net8.0\System.IO.Pipes.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.11\ref\net8.0\System.IO.UnmanagedMemoryStream.dll

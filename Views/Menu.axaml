@@ -1,0 +1,19 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="AvaloniaApplication1.Menu"
+			 xmlns:vm ="using:AvaloniaApplication1.ViewModels"
+			 x:DataType="vm:MenuViewModel"
+			 >
+	<StackPanel>
+		<StackPanel IsVisible="{Binding !IsVisibleRegAuth}">
+			<Button Command="{Binding registration}" Content="Зарегестрировать администратора"></Button>
+		</StackPanel>
+		<StackPanel IsVisible="{Binding IsVisibleRegAuth}">
+			<Button Command="{Binding registration}" Content="Регистрация"></Button>
+			<Button Command="" Content="Авторизация"></Button>
+		</StackPanel>
+	</StackPanel>
+</UserControl>
