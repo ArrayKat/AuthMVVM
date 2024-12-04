@@ -33,5 +33,8 @@ namespace AvaloniaApplication1.ViewModels
             //в Registration передаем idRole
             MainWindowViewModel.Instance.PageContent = !IsVisibleRegAuth ? new Registration(1) : new Registration(2);
         }
+        public void autorisation() {
+            MainWindowViewModel.Instance.PageContent = new Autorisation();
+        }
     }
 }

@@ -1,0 +1,16 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="AvaloniaApplication1.Autorisation"
+			 xmlns:vm ="using:AvaloniaApplication1.ViewModels"
+			 x:DataType="vm:AutorisationViewModel">
+	<StackPanel>
+		<Button Command="{Binding ToBack}" Content="Назад"/>
+		<TextBlock Text="Авторизация"/>
+		<TextBox Text="{Binding Login}" Watermark="Логин"/>
+		<TextBox Text="{Binding Password}" Watermark="Пароль"/>
+		<Button Command="{Binding Auth}" Content="Войти"/>
+	</StackPanel>
+</UserControl>

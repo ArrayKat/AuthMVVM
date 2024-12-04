@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Katya\\source\\repos\\AvaloniaApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95AC1D79-AE13-4D04-AA46-826473FEF5F1}|AvaloniaApplication1.csproj|c:\\users\\katya\\source\\repos\\avaloniaapplication1\\viewmodels\\menuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95AC1D79-AE13-4D04-AA46-826473FEF5F1}|AvaloniaApplication1.csproj|solutionrelative:viewmodels\\menuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95AC1D79-AE13-4D04-AA46-826473FEF5F1}|AvaloniaApplication1.csproj|c:\\users\\katya\\source\\repos\\avaloniaapplication1\\views\\profileuser.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{95AC1D79-AE13-4D04-AA46-826473FEF5F1}|AvaloniaApplication1.csproj|solutionrelative:views\\profileuser.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95AC1D79-AE13-4D04-AA46-826473FEF5F1}|AvaloniaApplication1.csproj|c:\\users\\katya\\source\\repos\\avaloniaapplication1\\viewmodels\\registarationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95AC1D79-AE13-4D04-AA46-826473FEF5F1}|AvaloniaApplication1.csproj|solutionrelative:viewmodels\\registarationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95AC1D79-AE13-4D04-AA46-826473FEF5F1}|AvaloniaApplication1.csproj|c:\\users\\katya\\source\\repos\\avaloniaapplication1\\viewmodels\\profileuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AC1D79-AE13-4D04-AA46-826473FEF5F1}|AvaloniaApplication1.csproj|solutionrelative:viewmodels\\profileuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AC1D79-AE13-4D04-AA46-826473FEF5F1}|AvaloniaApplication1.csproj|c:\\users\\katya\\source\\repos\\avaloniaapplication1\\views\\profileuser.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AC1D79-AE13-4D04-AA46-826473FEF5F1}|AvaloniaApplication1.csproj|solutionrelative:views\\profileuser.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AC1D79-AE13-4D04-AA46-826473FEF5F1}|AvaloniaApplication1.csproj|c:\\users\\katya\\source\\repos\\avaloniaapplication1\\viewmodels\\autorisationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AC1D79-AE13-4D04-AA46-826473FEF5F1}|AvaloniaApplication1.csproj|solutionrelative:viewmodels\\autorisationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AC1D79-AE13-4D04-AA46-826473FEF5F1}|AvaloniaApplication1.csproj|c:\\users\\katya\\source\\repos\\avaloniaapplication1\\views\\autorisation.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{95AC1D79-AE13-4D04-AA46-826473FEF5F1}|AvaloniaApplication1.csproj|solutionrelative:views\\autorisation.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AC1D79-AE13-4D04-AA46-826473FEF5F1}|AvaloniaApplication1.csproj|c:\\users\\katya\\source\\repos\\avaloniaapplication1\\views\\menu.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{95AC1D79-AE13-4D04-AA46-826473FEF5F1}|AvaloniaApplication1.csproj|solutionrelative:views\\menu.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AC1D79-AE13-4D04-AA46-826473FEF5F1}|AvaloniaApplication1.csproj|c:\\users\\katya\\source\\repos\\avaloniaapplication1\\viewmodels\\menuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AC1D79-AE13-4D04-AA46-826473FEF5F1}|AvaloniaApplication1.csproj|solutionrelative:viewmodels\\menuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95AC1D79-AE13-4D04-AA46-826473FEF5F1}|AvaloniaApplication1.csproj|c:\\users\\katya\\source\\repos\\avaloniaapplication1\\views\\registration.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{95AC1D79-AE13-4D04-AA46-826473FEF5F1}|AvaloniaApplication1.csproj|solutionrelative:views\\registration.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95AC1D79-AE13-4D04-AA46-826473FEF5F1}|AvaloniaApplication1.csproj|c:\\users\\katya\\source\\repos\\avaloniaapplication1\\views\\registration.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95AC1D79-AE13-4D04-AA46-826473FEF5F1}|AvaloniaApplication1.csproj|solutionrelative:views\\registration.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95AC1D79-AE13-4D04-AA46-826473FEF5F1}|AvaloniaApplication1.csproj|c:\\users\\katya\\source\\repos\\avaloniaapplication1\\viewmodels\\registarationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AC1D79-AE13-4D04-AA46-826473FEF5F1}|AvaloniaApplication1.csproj|solutionrelative:viewmodels\\registarationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95AC1D79-AE13-4D04-AA46-826473FEF5F1}|AvaloniaApplication1.csproj|c:\\users\\katya\\source\\repos\\avaloniaapplication1\\views\\menu.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{95AC1D79-AE13-4D04-AA46-826473FEF5F1}|AvaloniaApplication1.csproj|solutionrelative:views\\menu.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+      "AbsoluteMoniker": "D:0:0:{95AC1D79-AE13-4D04-AA46-826473FEF5F1}|AvaloniaApplication1.csproj|c:\\users\\katya\\source\\repos\\avaloniaapplication1\\views\\registration.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AC1D79-AE13-4D04-AA46-826473FEF5F1}|AvaloniaApplication1.csproj|solutionrelative:views\\registration.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 224,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +78,66 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfileUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Katya\\source\\repos\\AvaloniaApplication1\\ViewModels\\ProfileUserViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ProfileUserViewModel.cs",
+              "ToolTip": "C:\\Users\\Katya\\source\\repos\\AvaloniaApplication1\\ViewModels\\ProfileUserViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ProfileUserViewModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wBUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:44:57.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfileUser.axaml",
+              "DocumentMoniker": "C:\\Users\\Katya\\source\\repos\\AvaloniaApplication1\\Views\\ProfileUser.axaml",
+              "RelativeDocumentMoniker": "Views\\ProfileUser.axaml",
+              "ToolTip": "C:\\Users\\Katya\\source\\repos\\AvaloniaApplication1\\Views\\ProfileUser.axaml",
+              "RelativeToolTip": "Views\\ProfileUser.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T22:44:44.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProfileUser.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Katya\\source\\repos\\AvaloniaApplication1\\Views\\ProfileUser.axaml.cs",
+              "RelativeDocumentMoniker": "Views\\ProfileUser.axaml.cs",
+              "ToolTip": "C:\\Users\\Katya\\source\\repos\\AvaloniaApplication1\\Views\\ProfileUser.axaml.cs",
+              "RelativeToolTip": "Views\\ProfileUser.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:44:44.08Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "AutorisationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Katya\\source\\repos\\AvaloniaApplication1\\ViewModels\\AutorisationViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AutorisationViewModel.cs",
+              "ToolTip": "C:\\Users\\Katya\\source\\repos\\AvaloniaApplication1\\ViewModels\\AutorisationViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AutorisationViewModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwBwAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:26:38.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Autorisation.axaml",
+              "DocumentMoniker": "C:\\Users\\Katya\\source\\repos\\AvaloniaApplication1\\Views\\Autorisation.axaml",
+              "RelativeDocumentMoniker": "Views\\Autorisation.axaml",
+              "ToolTip": "C:\\Users\\Katya\\source\\repos\\AvaloniaApplication1\\Views\\Autorisation.axaml",
+              "RelativeToolTip": "Views\\Autorisation.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T22:26:16.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Registration.axaml.cs",
               "DocumentMoniker": "C:\\Users\\Katya\\source\\repos\\AvaloniaApplication1\\Views\\Registration.axaml.cs",
               "RelativeDocumentMoniker": "Views\\Registration.axaml.cs",
@@ -66,58 +145,53 @@
               "RelativeToolTip": "Views\\Registration.axaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T20:42:01.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T20:42:01.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Menu.axaml",
               "DocumentMoniker": "C:\\Users\\Katya\\source\\repos\\AvaloniaApplication1\\Views\\Menu.axaml",
               "RelativeDocumentMoniker": "Views\\Menu.axaml",
               "ToolTip": "C:\\Users\\Katya\\source\\repos\\AvaloniaApplication1\\Views\\Menu.axaml",
               "RelativeToolTip": "Views\\Menu.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-04T18:41:52.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T18:41:52.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "MenuViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Katya\\source\\repos\\AvaloniaApplication1\\ViewModels\\MenuViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\MenuViewModel.cs",
               "ToolTip": "C:\\Users\\Katya\\source\\repos\\AvaloniaApplication1\\ViewModels\\MenuViewModel.cs",
               "RelativeToolTip": "ViewModels\\MenuViewModel.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T18:57:57.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T18:57:57.468Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "RegistarationViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Katya\\source\\repos\\AvaloniaApplication1\\ViewModels\\RegistarationViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\RegistarationViewModel.cs",
               "ToolTip": "C:\\Users\\Katya\\source\\repos\\AvaloniaApplication1\\ViewModels\\RegistarationViewModel.cs",
               "RelativeToolTip": "ViewModels\\RegistarationViewModel.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAFIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEMAAAB+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T19:07:00.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T19:07:00.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Registration.axaml",
               "DocumentMoniker": "C:\\Users\\Katya\\source\\repos\\AvaloniaApplication1\\Views\\Registration.axaml",
               "RelativeDocumentMoniker": "Views\\Registration.axaml",
               "ToolTip": "C:\\Users\\Katya\\source\\repos\\AvaloniaApplication1\\Views\\Registration.axaml",
               "RelativeToolTip": "Views\\Registration.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-04T18:42:12.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T18:42:12.537Z"
             }
           ]
         }

@@ -13,7 +13,7 @@
 		</StackPanel>
 		<StackPanel IsVisible="{Binding IsVisibleRegAuth}">
 			<Button Command="{Binding registration}" Content="Регистрация"></Button>
-			<Button Command="" Content="Авторизация"></Button>
+			<Button Command="{Binding autorisation}" Content="Авторизация"></Button>
 		</StackPanel>
 	</StackPanel>
 </UserControl>

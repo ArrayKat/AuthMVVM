@@ -32,10 +32,16 @@ build_property.EnableCodeStyleSeverity =
 [C:/Users/Katya/source/repos/AvaloniaApplication1/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
+[C:/Users/Katya/source/repos/AvaloniaApplication1/Views/Autorisation.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
 [C:/Users/Katya/source/repos/AvaloniaApplication1/Views/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
 [C:/Users/Katya/source/repos/AvaloniaApplication1/Views/Menu.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Katya/source/repos/AvaloniaApplication1/Views/ProfileUser.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
 [C:/Users/Katya/source/repos/AvaloniaApplication1/Views/Registration.axaml]
