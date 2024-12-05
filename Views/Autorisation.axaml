@@ -8,9 +8,12 @@
 			 x:DataType="vm:AutorisationViewModel">
 	<StackPanel>
 		<Button Command="{Binding ToBack}" Content="Назад"/>
-		<TextBlock Text="Авторизация"/>
-		<TextBox Text="{Binding Login}" Watermark="Логин"/>
-		<TextBox Text="{Binding Password}" Watermark="Пароль"/>
-		<Button Command="{Binding Auth}" Content="Войти"/>
+		<StackPanel HorizontalAlignment="Center">
+			<TextBlock Text="Авторизация" HorizontalAlignment="Center" FontSize="32"/>
+			<TextBox Text="{Binding Login}" Watermark="Логин" />
+			<TextBox Text="{Binding Password}" Watermark="Пароль"/>
+			<Button  Command="{Binding Auth}" Content="Войти" HorizontalAlignment="Center"  Padding="222 5"/>
+		</StackPanel>
+		
 	</StackPanel>
 </UserControl>

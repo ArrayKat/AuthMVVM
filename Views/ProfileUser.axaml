@@ -13,23 +13,34 @@
 	
 	<StackPanel>
 		<Button Content="Назад" Command="{Binding ToPageBack}"></Button>
-		<Image Height="100" Width="100" Source="{Binding CurrentUser.Image, Converter={StaticResource ImgConv}}"/>
-		<Button Command="{Binding AddPhoto}" Content="Изменить фото"/>
-		<TextBlock>
-			<TextBlock.Text>
-				<MultiBinding StringFormat="{}Ваше фио: {0} {1} {2}">
-					<Binding Path="CurrentUser.Surname"/>
-					<Binding Path="CurrentUser.Name"/>
-					<Binding Path="CurrentUser.Patronymic"/>
-				</MultiBinding>
-			</TextBlock.Text>
-		</TextBlock>
-		<TextBlock>
-			<TextBlock.Text>
-				<MultiBinding StringFormat="Роль в системе: {0}">
-					<Binding Path="CurrentUser.IdRoleNavigation.NameRole"/>
-				</MultiBinding>
-			</TextBlock.Text>
-		</TextBlock>
+		<StackPanel HorizontalAlignment="Center">
+			<Image Height="400" Width="400" Source="{Binding CurrentUser.Image, Converter={StaticResource ImgConv}}"/>
+	
+			<Button Command="{Binding AddPhoto}" Content="Изменить фото" HorizontalAlignment="Center"/>
+			<TextBlock >
+				<TextBlock.Text>
+					<MultiBinding StringFormat="{}Добро пожаловать, {0}!">
+						<Binding Path="CurrentUser.IdRoleNavigation.NameRole"/>
+					</MultiBinding>
+				</TextBlock.Text>
+			</TextBlock>
+			<TextBlock >
+				<TextBlock.Text>
+					<MultiBinding StringFormat="{}ФИО: {0} {1} {2}">
+						<Binding Path="CurrentUser.Surname"/>
+						<Binding Path="CurrentUser.Name"/>
+						<Binding Path="CurrentUser.Patronymic"/>
+					</MultiBinding>
+				</TextBlock.Text>
+			</TextBlock>
+			<TextBlock >
+				<TextBlock.Text>
+					<MultiBinding StringFormat="{}Логин: {0}">
+						<Binding Path="CurrentUser.Login"/>
+					</MultiBinding>
+				</TextBlock.Text>
+			</TextBlock>
+			</StackPanel>
+		
 	</StackPanel>
 </UserControl>
